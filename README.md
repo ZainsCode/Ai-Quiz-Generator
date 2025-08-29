@@ -65,5 +65,5 @@ ai-quiz-generator/ <br>
 
 ## 🙋‍♂️ Author
 Zain Ali
-Python & AI Developer — Building cool stuff, one project at a time!
+Python & AI Developer — Building cool stuff
 
