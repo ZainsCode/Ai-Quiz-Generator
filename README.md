@@ -51,7 +51,7 @@ It will open automatically in your browser at http://localhost:8501.
 •	python-dotenv – load secret keys <br>
 
 🗂️ Project Structure
-ai-quiz-generator/
+ai-quiz-generator/ <br>
 ├── app.py               # Streamlit frontend <br>
 ├── quiz_generator.py    # AI logic using OpenAI API <br>
 ├── requirements.txt     # Python dependencies <br>
